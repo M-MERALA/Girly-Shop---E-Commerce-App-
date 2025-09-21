@@ -34,33 +34,47 @@ The app includes **Sneakers, Blazers, Watches, and Girly Fashion** items – sty
 
 ## 📸 Screenshots  
 
-| Screen 1 | Screen 2 | Screen 3 |  
-|----------|----------|----------|  
-| ![Screen 1](screens/screen1.png) | ![Screen 2](screens/screen2.png) | ![Screen 3](screens/screen3.png) |  
 
-| Screen 4 | Screen 5 | Screen 6 |  
-|----------|----------|----------|  
-| ![Screen 4](screens/screen4.png) | ![Screen 5](screens/screen5.png) | ![Screen 6](screens/screen6.png) |  
+<p align="center">
+  <img src="screens/screen1.png" width="250">
+  <img src="screens/screen2.png" width="250">
+  <img src="screens/screen3.png" width="250">
+  <img src="screens/screen4.png" width="250">
+</p>
 
-| Screen 7 | Screen 8 | Screen 9 |  
-|----------|----------|----------|  
-| ![Screen 7](screens/screen7.png) | ![Screen 8](screens/screen8.png) | ![Screen 9](screens/screen9.png) |  
+<p align="center">
+  <img src="screens/screen5.png" width="250">
+  <img src="screens/screen6.png" width="250">
+  <img src="screens/screen7.png" width="250">
+  <img src="screens/screen8.png" width="250">
+</p>
 
-| Screen 10 | Screen 11 | Screen 12 |  
-|-----------|-----------|-----------|  
-| ![Screen 10](screens/screen10.png) | ![Screen 11](screens/screen11.png) | ![Screen 12](screens/screen12.png) |  
+<p align="center">
+  <img src="screens/screen9.png" width="250">
+  <img src="screens/screen10.png" width="250">
+  <img src="screens/screen11.png" width="250">
+  <img src="screens/screen12.png" width="250">
+</p>
 
-| Screen 13 | Screen 14 | Screen 15 |  
-|-----------|-----------|-----------|  
-| ![Screen 13](screens/screen13.png) | ![Screen 14](screens/screen14.png) | ![Screen 15](screens/screen15.png) |  
+<p align="center">
+  <img src="screens/screen13.png" width="250">
+  <img src="screens/screen14.png" width="250">
+  <img src="screens/screen15.png" width="250">
+  <img src="screens/screen16.png" width="250">
+</p>
 
-| Screen 16 | Screen 17 | Screen 18 |  
-|-----------|-----------|-----------|  
-| ![Screen 16](screens/screen16.png) | ![Screen 17](screens/screen17.png) | ![Screen 18](screens/screen18.png) |  
+<p align="center">
+  <img src="screens/screen17.png" width="250">
+  <img src="screens/screen18.png" width="250">
+  <img src="screens/screen19.png" width="250">
+  <img src="screens/screen20.png" width="250">
+</p>
 
-| Screen 19 | Screen 20 | Screen 21 | Screen 22 |  
-|-----------|-----------|-----------|-----------|  
-| ![Screen 19](screens/screen19.png) | ![Screen 20](screens/screen20.png) | ![Screen 21](screens/screen21.png) | ![Screen 22](screens/screen22.png) |  
+<p align="center">
+  <img src="screens/screen21.png" width="250">
+  <img src="screens/screen22.png" width="250">
+</p>
+
 
 ---
 
