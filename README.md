@@ -28,7 +28,6 @@ The app includes **Sneakers, Blazers, Watches, and Girly Fashion** items – sty
 - **Firebase** (Auth + Firestore + Notifications)  
 - **HTTP / Dio** (API requests from [DummyJSON](https://dummyjson.com/))  
 - **State Management** (Provider / Riverpod / GetX)  
-- **Hive / SharedPreferences** (local storage)  
 
 ---
 
